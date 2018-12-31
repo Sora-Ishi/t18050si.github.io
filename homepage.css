@@ -1,0 +1,35 @@
+*{
+padding:0;
+margin:0;
+}
+#bar {
+width: 100%;
+padding:10px; border:0px solid darkgrey;
+background-color:darkgray;
+float: left;
+}
+.right{float:right;}
+.left{float:left;}
+#main{
+width:950px;
+height: 600px;
+margin-right: auto;
+margin-left: auto;
+border-right-width: 200px;
+border-bottom-width: 10px;
+border-left-width: 1px;
+border-right-style: solid;
+border-bottom-style: solid;
+border-left-style: solid;
+border-right-color: #000000;
+border-bottom-color: #000000;
+border-left-color: #000000;
+}
+
+.main_img {
+    width: 101%;
+    height: 480px;
+    background: url('DSC08920.jpeg');
+    background-size: cover;
+    background-position: 40%;
+}
