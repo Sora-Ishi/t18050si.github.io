@@ -6,9 +6,9 @@ margin:0;
 width: 100%;
 padding:10px; border:0px solid darkgrey;
 background-color:lightslategray;
-float: left;
+float: right;
 }
-.right{float:right;}
+.right{float:left;}
 .left{float:left;}
 #main{
 width:950px;
